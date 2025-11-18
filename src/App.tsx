@@ -1,5 +1,5 @@
 import { Button } from "./components/ui/button";
-import profile from "./assets/c316adc465a80990af3a0075303343f0d615c92a.png";
+import profile from "./assets/c316adc465a80990af3a0075303343f0d615c92a.webp";
 import BlogCard from "./components/blog-card";
 import { Link } from "react-router-dom";
 import WorkCard from "./components/work-card";

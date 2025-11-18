@@ -1,5 +1,5 @@
 import { Badge } from "@/components/ui/badge";
-import thumbnail from "../assets/1c6bbc0be719e9d93c02a87ba51308ebb0297cdf.png";
+import thumbnail from "../assets/1c6bbc0be719e9d93c02a87ba51308ebb0297cdf.webp";
 
 export default function WorkCard() {
   return (

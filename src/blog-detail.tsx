@@ -1,5 +1,5 @@
-import img2 from "./assets/d986ab1f884ac19526fd2491ea0b40e9bee97049.png";
-import img3 from "./assets/b4e76714252f22ce390e5bad81de4a04a3446a45.png";
+import img2 from "./assets/d986ab1f884ac19526fd2491ea0b40e9bee97049.webp";
+import img3 from "./assets/b4e76714252f22ce390e5bad81de4a04a3446a45.webp";
 
 export default function BlogDetail() {
   return (
